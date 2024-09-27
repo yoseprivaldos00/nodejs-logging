@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "hasil_log\\.e967e9908efcb0336ed071f921fff1d95ac88b0f-audit.json",
+    "files": [
+        {
+            "date": 1727480323616,
+            "name": "hasil_log\\app-2024-09-28.log",
+            "hash": "0b9315e7657038436fe4e48774822dc0b8353113593162665bfb6052f2e57acb"
+        },
+        {
+            "date": 1727480337920,
+            "name": "hasil_log\\app-2024-09-28.log.1",
+            "hash": "09d7b47882063d4e14b07e049da8f487d3a428eb92b5fd39a6b8e53886a4c947"
+        },
+        {
+            "date": 1727480355321,
+            "name": "hasil_log\\app-2024-09-28.log.2",
+            "hash": "df6b75bcaf1ed7608b4c86332c80e4c2f23895657f62b8f277f1b012c3f60ee4"
+        },
+        {
+            "date": 1727480373477,
+            "name": "hasil_log\\app-2024-09-28.log.3",
+            "hash": "481427ff62263e9a735cec4c46e6c4e11e71af7e34bca8dead118e1bc303cf18"
+        },
+        {
+            "date": 1727480395018,
+            "name": "hasil_log\\app-2024-09-28.log.4",
+            "hash": "ba5501619d8b7b3315f354acadca826c571aefb238a99e86e563ded93369e5c1"
+        }
+    ],
+    "hashType": "sha256"
+}
